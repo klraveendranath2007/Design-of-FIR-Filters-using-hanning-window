@@ -1,18 +1,33 @@
-# Design-of-FIR-Filters-using-hanning-window
+## 4 C Design of FIR Filters using Hanning Window
 
-#DESIGN OF FIR DIGITAL FILTER 
 
-# AIM: 
-          
-  To generate design of low pass FIR digital filter using SCILAB 
+### AIM:        
+  To generate design of FIR digital filter using Hanning window in SCILAB .  
 
-# APPARATUS REQUIRED: 
-
+### APPARATUS REQUIRED: 
   PC Installed with SCILAB 
 
-# PROGRAM 
+### PROGRAM 
+#### a. Design of Low Pass FIR Digital filter
+```python
+```
+#### b. Design of High Pass FIR Digital filter
+```python
+```
+#### c. Design of Band Pass FIR Digital filter
+```python
+```
+#### d. Design of Band Stop FIR Digital filter
+```python
+```
+### OUTPUT
+#### a. Design of Low Pass FIR Digital filter
 
+#### b. Design of High Pass FIR Digital filter
 
-# OUTPUT
+#### c. Design of Band Pass FIR Digital filter
 
-# RESULT
+#### d. Design of Band Stop FIR Digital filter
+
+### RESULT
+The FIR Filters were successfully designed using Hanning window Technique.
