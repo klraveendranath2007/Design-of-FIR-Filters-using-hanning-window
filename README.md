@@ -189,12 +189,12 @@ title('Frequency Response of FIR BSF using Hanning Window');
 ```
 ### OUTPUT
 #### a. Design of Low Pass FIR Digital filter
-<img width="414" height="435" alt="image" src="https://github.com/user-attachments/assets/556d5dce-3f0e-4b6b-a959-a5e6c9708355" />
-<img width="435" height="436" alt="image" src="https://github.com/user-attachments/assets/9f6fb1bb-e684-4ede-881b-784425531266" />
+<img width="404" height="435" alt="image" src="https://github.com/user-attachments/assets/556d5dce-3f0e-4b6b-a959-a5e6c9708355" />
+<img width="405" height="436" alt="image" src="https://github.com/user-attachments/assets/9f6fb1bb-e684-4ede-881b-784425531266" />
 
 #### b. Design of High Pass FIR Digital filter
-<img width="414" height="440" alt="image" src="https://github.com/user-attachments/assets/5c870001-7ba6-488a-82c8-ee8190d74b38" />
-<img width="427" height="442" alt="image" src="https://github.com/user-attachments/assets/603ea566-f812-4198-9d30-bb54e1a728e8" />
+<img width="404" height="440" alt="image" src="https://github.com/user-attachments/assets/5c870001-7ba6-488a-82c8-ee8190d74b38" />
+<img width="407" height="442" alt="image" src="https://github.com/user-attachments/assets/603ea566-f812-4198-9d30-bb54e1a728e8" />
 
 #### c. Design of Band Pass FIR Digital filter
 <img width="393" height="437" alt="image" src="https://github.com/user-attachments/assets/2e438f17-f444-4547-911d-61a4bbd7bde0" />
@@ -202,7 +202,7 @@ title('Frequency Response of FIR BSF using Hanning Window');
 
 #### d. Design of Band Stop FIR Digital filter
 <img width="383" height="452" alt="image" src="https://github.com/user-attachments/assets/89040cc3-f5aa-4b78-8f57-392e722d2bc0" />
-<img width="456" height="437" alt="image" src="https://github.com/user-attachments/assets/3a78d9b9-2d95-43b7-997e-163abef1aafb" />
+<img width="406" height="437" alt="image" src="https://github.com/user-attachments/assets/3a78d9b9-2d95-43b7-997e-163abef1aafb" />
 
 ### RESULT
 The FIR Filters were successfully designed using Hanning window Technique.
